@@ -1,8 +1,8 @@
 image_finetune: false
 
 output_dir: "outputs"
-pretrained_model_path: "/mnt/f/research/HumanVideo/magic-animate/pretrained_models/stable-diffusion-v1-5"
-clip_model_path: "/mnt/f/research/HumanVideo/magic-animate/pretrained_models/clip-vit-base-patch32"
+pretrained_model_path: "runwayml/stable-diffusion-v1-5"
+clip_model_path: "openai/clip-vit-base-patch32"
 poseguider_checkpoint_path: " "
 referencenet_checkpoint_path: " "
 
